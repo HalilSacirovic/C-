@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\pc\\source\\repos\\consoleapp7\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\pc\\source\\repos\\consoleapp7\\consoleapp7\\aviokompanija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\aviokompanija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\pc\\source\\repos\\consoleapp7\\consoleapp7\\carterlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\carterlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\pc\\source\\repos\\consoleapp7\\consoleapp7\\redovnilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\redovnilet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|c:\\users\\pc\\source\\repos\\consoleapp7\\consoleapp7\\let.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBB4D9A-34E3-4DE2-B8BD-A604707AB0BD}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\let.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarterLet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\CarterLet.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\CarterLet.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\CarterLet.cs",
+              "RelativeToolTip": "ConsoleApp7\\CarterLet.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:19:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvioKompanija.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\AvioKompanija.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\AvioKompanija.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\AvioKompanija.cs",
+              "RelativeToolTip": "ConsoleApp7\\AvioKompanija.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAqwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:13:35.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedovniLet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\RedovniLet.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\RedovniLet.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\RedovniLet.cs",
+              "RelativeToolTip": "ConsoleApp7\\RedovniLet.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCQAAADBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:07:43.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LET.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\LET.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\LET.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\LET.cs",
+              "RelativeToolTip": "ConsoleApp7\\LET.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:02:37.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ConsoleApp7\\ConsoleApp7\\Program.cs",
+              "RelativeToolTip": "ConsoleApp7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T11:00:39.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
