@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Photo\Photo\bin\Debug\Photo.exe.config
+C:\Users\PC\source\repos\Photo\Photo\bin\Debug\Photo.exe
+C:\Users\PC\source\repos\Photo\Photo\bin\Debug\Photo.pdb
+C:\Users\PC\source\repos\Photo\Photo\obj\Debug\Photo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Photo\Photo\obj\Debug\Photo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Photo\Photo\obj\Debug\Photo.exe
+C:\Users\PC\source\repos\Photo\Photo\obj\Debug\Photo.pdb
